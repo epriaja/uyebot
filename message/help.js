@@ -227,10 +227,10 @@ LIST HARGA SEWA BOTZ
 ▢ PERBULAN 15K
 ▢ PERMANEN 20K
 MINAT HIBUNGI OWNER
-wa.me/6283890109310
+wa.me/6282213334374
 
 YG MAU TOP UP GAME CHAT NO DI BAWAH
-wa.me/6283890109310`
+wa.me/628221334374`
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -438,10 +438,10 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *Akbarbarz*
-❏ API : @6283890109310
-❏ OWNER : *Akbarbarz*
-❏ API : *@6283890109310*
+❏ NAMA : *Clara.botz*
+❏ API : @6282213334374
+❏ OWNER : *EFRIZA*
+❏ API : *@6282213334374*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
@@ -826,4 +826,4 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 *▢ ${prefix}memeindo*
 *▢ ${prefix}darkjoke*
 
-©Creator Bye Akbar Botz`}
+© WhatsApp Bot (Clara.botz)`}
